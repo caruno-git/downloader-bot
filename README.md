@@ -9,7 +9,6 @@ Built with Python 3.12, Pyrogram, and yt-dlp.
 - **High Quality**: Auto-selects up to 1440p 60fps for video.
 - **Crystal Clear Audio**: Converts extracted audio to **Opus** (OGG) for best quality/size ratio.
 - **Smart TikTok**: Auto-detects TikTok links and downloads instantly (skipping menus).
-- **Inline Mode**: Share videos directly in any chat (via direct stream URL).
 - **Big Files**: Supports uploading files up to 2GB (4GB with local API).
 - **Multi-language**: Auto-detects user language (EN, RU, UK, KK, etc.).
 
