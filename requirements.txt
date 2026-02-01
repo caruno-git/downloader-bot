@@ -1,0 +1,8 @@
+kurigram
+tgcrypto
+yt-dlp
+yt-dlp
+pyrogram
+tgcrypto
+python-dotenv
+requests
